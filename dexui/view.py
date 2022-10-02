@@ -31,7 +31,7 @@ class View(ui.View):
         self.kwargs = kwargs
         
     async def init(self, **kwargs): 
-        return 
+        pass 
         
     async def get_data(self):
         return 
